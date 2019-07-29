@@ -1,0 +1,25 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangert/scratch-ml-experiments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangert/scratch-ml-experiments/issues"
+  },
+  "homepage": "https://github.com/tangert/scratch-ml-experiments#readme",
+  "dependencies": {
+    "scratch-parser": "^5.0.0"
+  }
+}
